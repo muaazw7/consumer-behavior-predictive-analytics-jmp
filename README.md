@@ -33,7 +33,6 @@ The analysis demonstrates how predictive analytics can identify customer segment
 - Decision Tree Modeling
 - Data Visualization
 - Business Analysis
-
 ## Project Images
 ![JMP Decision Tree](images/jmp-decision-tree.png)
 ![JMP K-Means Clustering](images/jmp-kmeans-clustering.png)

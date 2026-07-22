@@ -58,4 +58,4 @@ Three distinct clusters were identified to segment observations based on demogra
 ### Linear Regression
 Linear regression evaluates the relationship between salary and age, providing regression coefficients and model performance statistics.
 
-![JMP Linear Regression](images/jmp-linear-regression.png)
+![JMP Regression Analysis](images/jmp-regression-analysis.png)

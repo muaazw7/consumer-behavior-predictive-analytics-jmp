@@ -1,55 +1,61 @@
 # Consumer Behavior Predictive Analytics
-
-This project uses JMP to perform descriptive and predictive analytics on consumer behavior data through clustering, regression analysis, decision trees, and multivariate visualizations.
+This project uses JMP to analyze consumer and workforce data through predictive analytics techniques including decision trees, K-Means clustering, principal component analysis (PCA), and linear regression.
 
 ## Tools Used
 - JMP
 - Predictive Analytics
-- Regression Analysis
-- K-Means Clustering
 - Decision Trees
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+- Linear Regression
 - Data Visualization
 
 ## Business Problem
-Organizations use consumer analytics to understand purchasing behavior, demographic patterns, customer segmentation, and purchasing trends. This project applies predictive analytics techniques to identify consumer behavior patterns and support data-driven business decision-making.
+Organizations use predictive analytics to identify customer segments, understand behavioral patterns, evaluate demographic relationships, and support data-driven business decisions. This project applies multiple analytical techniques to uncover meaningful patterns within consumer and workforce datasets.
 
 ## Project Overview
-The analysis explores consumer behavior patterns, salary trends, purchasing behavior, and oral hygiene habits using JMP. The project includes descriptive analysis, K-Means clustering, regression modeling, decision tree classification, and multivariate visualization.
+The project applies predictive analytics techniques to analyze relationships between demographic characteristics, salary, employment experience, and consumer behavior. It includes decision tree modeling, K-Means clustering, principal component analysis (PCA), and linear regression to identify patterns and support business decision-making.
 
 ## Analytical Techniques
 - Decision Tree Modeling
 - K-Means Clustering
+- Principal Component Analysis (PCA)
 - Linear Regression
 - Descriptive Analytics
-- Predictive Analytics
-- Multivariate Visualization
 
 ## Key Features
 - Developed a decision tree model to identify factors influencing brushing behavior across demographic groups
-- Performed regression analysis to evaluate relationships between salary and age
-- Applied K-Means clustering to segment consumers based on demographic and behavioral characteristics
-- Created multivariate visualizations to explore consumer behavior patterns
-- Interpreted model performance using R-squared, RMSE, regression coefficients, and clustering insights
+- Applied K-Means clustering to identify distinct customer and workforce segments
+- Performed principal component analysis (PCA) to visualize multidimensional relationships between variables
+- Built a linear regression model to evaluate the relationship between salary and age
+- Interpreted model performance using R-squared, regression coefficients, clustering outputs, and principal component analysis
 
 ## Business Value
-The analysis demonstrates how predictive analytics can identify customer segments, behavioral trends, and purchasing patterns to support data-driven business decision-making.
+The analysis demonstrates how predictive analytics can identify behavioral patterns, customer segments, demographic trends, and variable relationships to support data-driven business decision-making.
 
 ## Skills Demonstrated
 - Predictive Analytics
-- Data Analysis
-- Regression Analysis
-- K-Means Clustering
 - Decision Tree Modeling
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+- Linear Regression
+- Data Analysis
 - Data Visualization
 - Business Analysis
 
 ## Analysis Results
 
 ### Decision Tree
+The decision tree identifies demographic characteristics associated with brushing frequency.
+
 ![JMP Decision Tree](images/jmp-decision-tree.png)
 
 ### K-Means Clustering
+Three distinct clusters were identified to segment observations based on demographic and employment characteristics.
+
 ![JMP K-Means Clustering](images/jmp-kmeans-clustering.png)
 
-### Regression Analysis
-![JMP Regression Analysis](images/jmp-regression-analysis.png)
+### Linear Regression
+Linear regression evaluates the relationship between salary and age, providing regression coefficients and model performance statistics.
+
+![JMP Linear Regression](images/jmp-linear-regression.png)
